@@ -1,4 +1,4 @@
-package opencc
+package opencc // import "github.com/tttlkkkl/opencc"
 
 import (
 	"bufio"
